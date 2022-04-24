@@ -1,1 +1,2 @@
 # Code-Refractor-CH1
+The Code-Refractor exercise from how I understood it, was to stream line the CSS page and condense it to be as efficient as possible. The HTML page was also made to be more stream lined by removing or adding the necessary attributes.
